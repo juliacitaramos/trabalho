@@ -1,0 +1,22 @@
+body{background-color: brown;
+}
+h1 {text-align: center;
+      color: antiquewhite
+    } 
+    h2 {color: cornflowerblue;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgb(160, 238, 238);
+    margin-right: 60%;
+    }
+    #ima1 {width: 100%;
+    }
+      
+h3 {font-size: 170%;
+      text-align: center;
+      color: darksalmon;
+}
+h4{ text-align: center;
+      color: darkturquoise;
+      font-size: 150%;
+}
